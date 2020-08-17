@@ -28,7 +28,9 @@ Nästa upplaga av Ryder går av stapeln vecka 37.
 #### Koskentorva
 
 ### BelfrageBladet
+[Meet the captains](https://vossaxel.github.io/inkomp/res/mtc2020V.pdf)
 [Meet the players](https://vossaxel.github.io/inkomp/res/mtp2020V.pdf)
+[Meet the teams](https://vossaxel.github.io/inkomp/res/mtt2020V.pdf)
 
 ## 2019 Vår
 
