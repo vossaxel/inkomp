@@ -1,3 +1,5 @@
 theme: jekyll-theme-merlot
 title: Inkompetens touren
 description: Touren för ytterst mediokra golfare
+github:
+  is_project_page: false
