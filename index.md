@@ -9,6 +9,8 @@ Nästa upplaga av Ryder går av stapeln vecka 37.
 - [Meet the players 2020 V2](https://vossaxel.github.io/inkomp/res/mtp2020H.pdf)
 
 # Ryder
+
+||||
 |---|:---:|:---:|
 | 2020 | [Vår](./ryder2020V.html) | [Höst](./ryder2020H.html) |
 | 2019 | [Vår](./ryder2019V.html) |  |
