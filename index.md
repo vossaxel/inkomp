@@ -10,21 +10,8 @@ Nästa upplaga av Ryder går av stapeln vecka 37.
 
 # Ryder
 
-| head1        | head two          | three |
-|:-----|:-------|:------|
 | 2020 | [Vår](./ryder2020V.html) | [Höst](./ryder2020H.html) |
 | 2019 | [Vår](./ryder2019V.html) |  |
-
-## 2020
-
-### [Höst](./ryder2020H.html)
-
-### [Vår](./ryder2020V.html)
-
-## 2019
-
-### [Vår](./ryder2019V.html)
-
 # Tour
 
 ## 2020
