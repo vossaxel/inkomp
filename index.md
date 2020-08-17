@@ -23,5 +23,6 @@ Sidan är under utveckling.
 # Örn-hörnan
 
 - Henrik Hultquist
+- Magnus Lundh
 - Axel Voss
 - Kim Haapamäki
