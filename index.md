@@ -2,7 +2,7 @@
 
 ## Nyheter
 
-Välkommen till den nya hemsidan som fortfarande är under utveckling.
+Nästa upplaga av Ryder går av stapeln vecka 37.
 
 # Touren
 
