@@ -14,7 +14,12 @@ Nästa upplaga av Ryder går av stapeln vecka 37.
 
 # Ryder
 
-## 2020
+## 2020 Höst
+
+### BelfrageBladet
+[Meet the players](https://vossaxel.github.io/inkomp/res/mtp2020H.pdf)
+
+## 2020 Vår
 
 ### Spelare
 
@@ -23,8 +28,9 @@ Nästa upplaga av Ryder går av stapeln vecka 37.
 #### Koskentorva
 
 ### BelfrageBladet
+[Meet the players](https://vossaxel.github.io/inkomp/res/mtp2020V.pdf)
 
-## 2019
+## 2019 Vår
 
 ### Spelare
 
