@@ -1,19 +1,27 @@
-## Välkommen
+# Välkommen
 
-You can use the [editor on GitHub](https://github.com/vossaxel/inkomp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Sidan är under utveckling.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Touren
 
-## Ryder
+## Vinnare
 
 ### 2020
 
-### 2019
+*Johannes Tykesson*
+
+# Ryder
+
+## 2020
+
+### Spelare
+
+## 2019
+
+### Spelare
 
 ## Örn-hörnan
 
 - Henrik Hultquist
 - Axel Voss
 - Kim Haapamäki
-
-# test
