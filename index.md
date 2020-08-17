@@ -8,7 +8,7 @@ Sidan är under utveckling.
 
 ### 2020
 
-*Johannes Tykesson*
+**Johannes Tykesson**
 
 # Ryder
 
@@ -20,7 +20,7 @@ Sidan är under utveckling.
 
 ### Spelare
 
-## Örn-hörnan
+# Örn-hörnan
 
 - Henrik Hultquist
 - Axel Voss
