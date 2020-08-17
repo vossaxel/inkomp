@@ -12,16 +12,16 @@ Nästa upplaga av Ryder går av stapeln vecka 37.
 # Ryder
 
 ## 2020
-[Vår](./ryder2020V.html).
+[Vår](./ryder2020V.html)
 
-[Höst](./ryder2020H.html).
+[Höst](./ryder2020H.html)
 
 ## 2019
-[Vår](./ryder2019V.html).
+[Vår](./ryder2019V.html)
 
 # Örn-hörnan
 
-- [Henrik Hultquist](./player.html).
-- [Magnus Lundh](./player.html).
-- [Axel Voss](./player.html).
-- [Kim Haapamäki](./player.html).
+- [Henrik Hultquist](./player.html)
+- [Magnus Lundh](./player.html)
+- [Axel Voss](./player.html)
+- [Kim Haapamäki](./player.html)
