@@ -6,9 +6,9 @@ Välkommen till den nya hemsidan som fortfarande är under utveckling.
 
 # Touren
 
-## Vinnare
+## 2020
 
-### 2020
+### Vinnare
 
 **Johannes Tykesson**
 
@@ -16,9 +16,15 @@ Välkommen till den nya hemsidan som fortfarande är under utveckling.
 
 ## 2020
 
+### BelfrageBladet
+
 ### Spelare
 
 ## 2019
+
+### BelfrageBladet
+
+#### Test
 
 ### Spelare
 
