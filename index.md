@@ -18,9 +18,9 @@ Nästa upplaga av Ryder går av stapeln vecka 37.
 
 ### Spelare
 
-#### Lag Sultans of Swing (Vinnare)
+#### Sultans of Swing (Vinnare)
 
-#### Lag Koskentorva
+#### Koskentorva
 
 ### BelfrageBladet
 
@@ -28,9 +28,9 @@ Nästa upplaga av Ryder går av stapeln vecka 37.
 
 ### Spelare
 
-#### Lag Norr (Vinnare)
+#### Norr (Vinnare)
 
-#### Lag Syd
+#### Syd
 
 ### BelfrageBladet
 
