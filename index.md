@@ -1,6 +1,8 @@
 # Välkommen
 
-Sidan är under utveckling.
+## Nyheter
+
+Välkommen till den nya hemsidan som fortfarande är under utveckling.
 
 # Touren
 
