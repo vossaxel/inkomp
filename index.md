@@ -34,7 +34,7 @@ Nästa upplaga av Ryder går av stapeln vecka 37.
 
 ### BelfrageBladet
 
-{{ site.baseurl }}/res/analys2019.pdf
+[Analys](https://vossaxel.github.io/inkomp/res/analys2019.pdf)
 
 # Örn-hörnan
 
