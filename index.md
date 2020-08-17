@@ -16,17 +16,23 @@ Nästa upplaga av Ryder går av stapeln vecka 37.
 
 ## 2020
 
-### BelfrageBladet
-
 ### Spelare
+
+#### Lag Sultans of Swing (Vinnare)
+
+#### Lag Koskentorva
+
+### BelfrageBladet
 
 ## 2019
 
-### BelfrageBladet
-
-#### Test
-
 ### Spelare
+
+#### Lag Norr (Vinnare)
+
+#### Lag Syd
+
+### BelfrageBladet
 
 # Örn-hörnan
 
