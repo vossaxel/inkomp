@@ -1,3 +1,7 @@
+---
+layout: subpage
+---
+
 # Medlemmar
 
 - [Adam Belfrage](./player.html)
