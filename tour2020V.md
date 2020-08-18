@@ -1,3 +1,7 @@
+---
+layout: subpage
+---
+
 # 2020 Vår
 
 ## Vinnare
