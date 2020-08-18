@@ -1,4 +1,4 @@
-# [Örn-hörnan](./eagle.html) | [Medlemmar](./members.md)
+# [Örn-hörnan](./eagle.html)
 
 ## Nyheter
 
