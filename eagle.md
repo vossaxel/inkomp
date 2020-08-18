@@ -1,3 +1,7 @@
+---
+layout:subpage
+---
+
 # Örn-hörnan
 
 >Det bästa med att göra en eagle är att Adam inte har gjort någon
