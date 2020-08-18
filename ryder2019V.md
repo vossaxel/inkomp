@@ -1,3 +1,7 @@
+---
+layout: subpage
+---
+
 # 2019 Vår
 
 ## Spelare
