@@ -22,10 +22,3 @@ Nästa upplaga av Ryder går av stapeln vecka 37.
 |:---:|:---:|:---:|
 | 2020 | [Vår](./tour2020V.html) | Höst |
 | 2019 | | |
-
-# Örn-hörnan
-
-- [Henrik Hultquist](./player.html)
-- [Magnus Lundh](./player.html)
-- [Axel Voss](./player.html)
-- [Kim Haapamäki](./player.html)
