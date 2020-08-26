@@ -9,4 +9,5 @@ layout: subpage
 - [Henrik Hultquist](./player.html)
 - [Magnus Lundh](./player.html)
 - [Axel Voss](./player.html)
+- [Anton Palmén](./player.html)
 - [Kim Haapamäki](./player.html)
