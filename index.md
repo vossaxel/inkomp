@@ -6,7 +6,7 @@ Nästa upplaga av Ryder går av stapeln vecka 37.
 
 ## Senaste nyhetsbrev
 
-- [Meet the captains 2020 V2](https://vossaxel.github.io/inkomp/res/mtc2020H.pdf)
+- [Meet the teams 2020 V2](https://vossaxel.github.io/inkomp/res/mtt2020H.pdf)
 
 # Ryder
 
