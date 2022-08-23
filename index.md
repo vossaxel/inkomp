@@ -2,7 +2,7 @@
 
 ## Nyheter
 
-Nästa upplaga av Ryder går av stapeln vecka 37.
+Nästa upplaga av Ryder går av stapeln 2022-09-02.
 
 ## Senaste nyhetsbrev
 
